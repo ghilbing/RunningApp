@@ -15,6 +15,7 @@ data class Run(
     var caloriesBurned: Int = 0
 ) {
     @PrimaryKey(autoGenerate = true)
+    var id: Int? = null
 
 
 }
