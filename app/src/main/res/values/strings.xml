@@ -18,4 +18,7 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="run_saved_successfully">Run saved successfully</string>
+    <string name="let_go">"Let's go "</string>
+    <string name="enter_fields">Please, enter all fields</string>
+    <string name="avg_speed_over_time">Average Speed Over Time</string>
 </resources>
