@@ -13,4 +13,8 @@
     <string name="settings">Settings</string>
     <string name="you_need_to_accept_location_permissions_to_use_this_app">You need to accept location permissions to use this app</string>
     <string name="running_app">Running App</string>
+    <string name="cancel_run">Cancel the run?</string>
+    <string name="cancel_run_message">Are you sure to cancel the current run and delete all its data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
 </resources>
